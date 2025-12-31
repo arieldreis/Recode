@@ -1,10 +1,10 @@
-package com.example.spring_react;
+package com.example.React_SpringBoot;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringReactApplicationTests {
+class ReactSpringBootApplicationTests {
 
 	@Test
 	void contextLoads() {
